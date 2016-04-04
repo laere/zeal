@@ -1,1 +1,2 @@
-This is for a new project
+zeal
+App using the spotify api.
